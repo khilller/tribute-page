@@ -83,7 +83,7 @@ ul{
     text-align: center;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 450px) {
   #tribute-info {
   font-family: 'Open sans';
   font-size: 14px;
