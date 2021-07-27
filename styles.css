@@ -86,9 +86,19 @@ ul{
 @media (max-width: 450px) {
   #tribute-info {
   font-family: 'Open sans';
-  font-size: 14px;
+  font-size: 12px;
   width: auto;
   height: auto;
   justify-self: center;
   }
+    
+  #img-caption{
+    text-align: center;
+    font-family: 'Open sans';
+    font-weight: 200;
+    font-size: 8px;
+    margin: 3% 0 0 0;
+    
+    }
+
 }
