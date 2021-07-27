@@ -54,7 +54,7 @@
 #tribute-info {
     font-family: 'Open sans';
     font-size: 14px;
-    width: 550px;
+    width: auto;
     height: auto;
     justify-self: center;
 }
